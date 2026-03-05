@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/ssr": "^0.9.0",
+    "@supabase/supabase-js": "^2.98.0",
+    "framer-motion": "^12.35.0",
+    "zustand": "^5.0.11"
+  }
+}
